@@ -18,10 +18,10 @@ requests==2.32.3
 numpy==2.2.6
 pandas==2.3.3
 scikit-learn==1.6.1
-scipy==1.16.3
+scipy==1.11.4
 joblib==1.5.3
 
 # --------------------
-# Optional (ONLY if your model uses it)
+# Optional (ONLY if model uses it)
 # --------------------
 xgboost==3.2.0
